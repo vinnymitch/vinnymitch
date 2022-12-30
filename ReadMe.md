@@ -1,5 +1,5 @@
 # 💫 About Me:
-My Name is Vince, I am an Electrical Engineering Major currently pursuing my degree. <br>I enjoy working on projects and learning about new programming methods and languages. 
+My Name is Vince, I am currently pursuing a degree in Electrical and Computer Engineering. <br>I enjoy working on projects and learning about new programming methods and languages. 
 
 
 # 💻 Tech Stack:
