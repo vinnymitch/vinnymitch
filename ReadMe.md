@@ -1,5 +1,5 @@
 # 💫 About Me:
-My Name is Vince, I am currently pursuing a degree in Electrical and Computer Engineering. <br>I enjoy working on projects and learning about new programming methods and languages. 
+My Name is Vince, I am currently pursuing a degree in Electrical and Computer Engineering. <br>I enjoy working on projects and learning about new programming methods and languages. <br> I hope to find a career in control systems or embedded systems or something to do with microchip manufacturing. 
 
 
 # 💻 Tech Stack:
